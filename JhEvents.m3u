@@ -1,10 +1,15 @@
 #EXTM3U
 # JoinTg: @StreamFlex19
-# Title: MANCHESTER SUPER GIANTS VS TRENT ROCKETS
-# Generated: 2026-07-31 21:59:39
+# Title: CENTRAL DELHI KINGS VS PURANI DILLI 6
+# Generated: 2026-07-31 22:13:32
 
-#EXTINF:-1 tvg-id="9896164398" tvg-name="ENGLISH 4K SDR [H265-DV-HDR-SDR-ADSFREE]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8992/1785409618992-b" group-title="MANCHESTER SUPER GIANTS VS TRENT ROCKETS", ENGLISH 4K [H265-DV-HDR-SDR-ADSFREE] SDR
+#EXTINF:-1 tvg-id="6148714044" tvg-name="HINDI FHD SDR [H265-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="CENTRAL DELHI KINGS VS PURANI DILLI 6", HINDI FHD [H265-FHD-DV-HDR-SDR] SDR
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074546&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723683&hdnea=exp=1785515827~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=2dC7gxbuJgfHo3imK14EAnCaKmM5LGlSl2yhGDrf2mLw-did=EPmA0bbiVmZtJBMieFEWYvDn7AkI0EA98Yk5nO9kbk23-cc=in-de=2-pl=androidtv-ap=24.06.27.1-ut=paid-~hmac=4404a425565fbb916b0484cc60084fd895501b0099ced25c1f6f3083945aa407
+http://live15p.hotstar.com/hls/live/2004216/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074630&language=hindi&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-dplt20-2026&si_match_id=723702&hdnea=exp=1785516680~acl=/hls/live/2004216/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=25.09.27.0-ut=paid-~hmac=4574dbee090fa09fc6ceafa890b3fb4a55880d2eaa7b6d363db8ef2695c6548c
+#EXTINF:-1 tvg-id="7982981406" tvg-name="HINDI [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="CENTRAL DELHI KINGS VS PURANI DILLI 6", HINDI [JHS-FHD]
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live-jiol.cdn.hotstar.com/hls/live/2003897/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=ns&hdnea=exp=1785516805~acl=/hls/live/2003897/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=android-ap=24.08.06.4-ut=paid-~hmac=9dee843605ec29c658492ee9d6e08297a5411734dcbd4509b7a752fea2a8dc75
