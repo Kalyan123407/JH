@@ -1,10 +1,10 @@
 #EXTM3U
 # JoinTg: @StreamFlex19
 # Title: LONDON SPIRIT VS SOUTHERN BRAVE
-# Generated: 2026-08-02 01:10:27
+# Generated: 2026-08-02 01:13:43
 
-#EXTINF:-1 tvg-id="797090691" tvg-name="ENGLISH FHD SDR" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/365/1785495680365-b" group-title="LONDON SPIRIT VS SOUTHERN BRAVE", ENGLISH FHD SDR
+#EXTINF:-1 tvg-id="3921492939" tvg-name="ENGLISH FHD SDR" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/365/1785495680365-b" group-title="LONDON SPIRIT VS SOUTHERN BRAVE", ENGLISH FHD SDR
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live13p.hotstar.com/hls/live/2027133/inallow-hundredmen-2026/eng/1540074954/15mindvrm02a9cb4b298d62482b920b8f2b406354ab01august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074954&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live13p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredmen-2026&si_match_id=723785&hdnea=exp=1785613794~acl=/hls/live/2027133/inallow-hundredmen-2026/eng/1540074954/15mindvrm02a9cb4b298d62482b920b8f2b406354ab01august2026/master_ap~ttl=1800~type=paid~data=ip=Zweq4Ldbic7gEzNmUodu8PNCLMAQOvwzk8ZIQF2M8I58cpRyUMPUI27-userid=2dC7gxbuJgfHo3imK14EAnCaKmM5LGlSl2yhGDrf2mLw-did=EPmA0bbiVmZtJBMieFEWYvDn7AkI0EA98Yk5nO9kbk23-cc=in-de=2-pl=androidtv-ap=26.07.22.4-ut=paid-~hmac=7fa06962fe0c31c165c862e8a82bcf3d3d01de085cc541c76ffcb6d6595840f1
+http://live13p.hotstar.com/hls/live/2027133/inallow-hundredmen-2026/eng/1540074954/15mindvrm02a9cb4b298d62482b920b8f2b406354ab01august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074954&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live13p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredmen-2026&si_match_id=723785&hdnea=exp=1785613984~acl=/hls/live/2027133/inallow-hundredmen-2026/eng/1540074954/15mindvrm02a9cb4b298d62482b920b8f2b406354ab01august2026/master_ap~ttl=1800~type=paid~data=ip=Zweq4Ldbic7gEzNmUodu8PNCLMAQOvwzk8ZIQF2M8I58cpRyUMPUI27-userid=2dC7gxbuJgfHo3imK14EAnCaKmM5LGlSl2yhGDrf2mLw-did=EPmA0bbiVmZtJBMieFEWYvDn7AkI0EA98Yk5nO9kbk23-cc=in-de=2-pl=androidtv-ap=25.11.21.3-ut=paid-~hmac=6cbdc7292498f30902521ea95ef51d265ccc312a56eff2afdc14631d92c70592
