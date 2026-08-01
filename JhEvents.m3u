@@ -1,63 +1,10 @@
 #EXTM3U
-# Multi-Event Playlist (2 events)
-# Generated: 2026-07-31 22:28:29
+# JoinTg: @StreamFlex19
+# Title: LONDON SPIRIT VS SOUTHERN BRAVE
+# Generated: 2026-08-02 00:53:59
 
-#EXTINF:-1 tvg-name="ENGLISH 4K SDR [H265-DV-HDR-SDR-ADSFREE]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8992/1785409618992-b" group-title="Manchester Super Giants vs Trent Rockets", ENGLISH 4K SDR [H265-DV-HDR-SDR-ADSFREE]
+#EXTINF:-1 tvg-id="661455453" tvg-name="ENGLISH 4K SDR ADSFREE [H265-AUTO-DV-HDR-SDR-ADSFREE]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/365/1785495680365-b" group-title="LONDON SPIRIT VS SOUTHERN BRAVE", ENGLISH 4K ADSFREE [H265-AUTO-DV-HDR-SDR-ADSFREE] SDR
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074546&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723683&hdnea=exp=1785518949~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap*~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=24.05.22.0-ut=paid-ttl=1800-type=paid-raf=1785517749-~hmac=fdacd5883e1dc745f4fbe87388dc10471c63423d0a11111eb683f65f9984fcb4
-
-#EXTINF:-1 tvg-name="ENGLISH [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8992/1785409618992-b" group-title="Manchester Super Giants vs Trent Rockets", ENGLISH [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://absicka4qqewaaayplau7t3zjvyss.live-cf.cdn.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1785517711~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=25.05.21.7-ut=paid-~hmac=ab83c8db75dbc9b0eafae28afcec3ebb387a5c4e865659c40158f149ec5b9035&Expires=1785517711&Signature=Zwuf3i0w~kt2SSnk9RR843wx7GEAdPzHgKTpxmPu55hQmym7RhNnAaYd~SCVD4oJgo4ypJ2~wMRZXFqQAB7amfFiLiIF7yMiyYiAHIfn7xUzfgMxx76FuqlKZdzzfYruzlYqsbMZVddV2qCG5PlthbcVWRuv-xc87qwcb6h9ZfV7cMu-tNqG-F34pzn7Ys8LZsiTx52fIey5SDx8sf1738ymUU2YKXhNcZr1VEAad1AUzocr3u73vVzmepNW6q13btmM23FdIHmJkiX~X8T3dRiyXmOHriqg~YReuPpEWigOqLIE-DcyFnjtpd5ly1nOq4OagFi8kWFoUUl1rZkYzg__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
-
-#EXTINF:-1 tvg-name="ENGLISH [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8992/1785409618992-b" group-title="Manchester Super Giants vs Trent Rockets", ENGLISH [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live-jiol.cdn.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap.m3u8?a=ns&hdnea=exp=1785517711~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=24.05.23.4-ut=paid-~hmac=51f96ac353572ddf8be69de254f65b438247325e72a80b76c45972afaa9be5d3
-
-#EXTINF:-1 tvg-name="ENGLISH [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8992/1785409618992-b" group-title="Manchester Super Giants vs Trent Rockets", ENGLISH [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live-bpk.cdn.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap.m3u8?a=ns&hdnea=exp=1785517714~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=25.02.20.7-ut=paid-~hmac=290d133ff7b6684dbe29cf9cede6b58368b43bafd8ecd9c0417cf343e31a8f69
-
-#EXTINF:-1 tvg-name="ENGLISH FHD SDR [H264-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8992/1785409618992-b" group-title="Manchester Super Giants vs Trent Rockets", ENGLISH FHD SDR [H264-FHD-DV-HDR-SDR]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live-ssai-jiol-mum.cdn.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074546&language=english&layer=master&media_codec=codec%3Dh264%3Adr%3Dsdr&playback_host=live14p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723683&hdnea=exp=1785517711~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074546/15mindvrm0119aae979ec5d4a5191111a4ae24fdba131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=25.11.12.3-ut=paid-~hmac=0152a2aac3db330a183f86d01018571b73c89bc2358ea8e046c3ceefab5a8341
-
-#EXTINF:-1 tvg-name="HINDI 4K SDR [H265-DV-HDR-SDR-ADSFREE]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="Central Delhi Kings vs Purani Dilli 6", HINDI 4K SDR [H265-DV-HDR-SDR-ADSFREE]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/hls/live/2004216/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074630&language=hindi&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-dplt20-2026&si_match_id=723702&hdnea=exp=1785517715~acl=/hls/live/2004216/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=25.05.24.9-ut=paid-~hmac=a2bcbdc5f340d13d17e07d90b8bf672e8ab9b0aeb96fa61bb24b2683e39f4689
-
-#EXTINF:-1 tvg-name="HINDI [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="Central Delhi Kings vs Purani Dilli 6", HINDI [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live-jiol.cdn.hotstar.com/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=ns&hdnea=exp=1785517711~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=26.11.19.6-ut=paid-~hmac=ea9efd005ff434bd1155a1f7e76080140633aabfefc6d23bdf583b84d2dfc390
-
-#EXTINF:-1 tvg-name="HINDI [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="Central Delhi Kings vs Purani Dilli 6", HINDI [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=ns&hdnea=exp=1785517611~acl=%2fhls%2flive%2f2003898%2finallow-dplt20-2026%2fhin%2f1540074630%2f15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026%2fmaster_ap%2a~data=ip%3dUrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid%3dT4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did%3dTt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc%3din-de%3d3-pl%3dandroidtv-ap%3d25.01.08.8-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=40347ef4463d33480db8c76305395b35a459ac67f887336553e3d4506de31429
-
-#EXTINF:-1 tvg-name="HINDI [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="Central Delhi Kings vs Purani Dilli 6", HINDI [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://absicka4qqewaaayotdnd5wldx4yo.live-cf.cdn.hotstar.com/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1785517721~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=26.08.02.1-ut=paid-~hmac=c379f5d80576ddcdbcecaca77a8c676ebe9000d1c7ddb90656c370e2e1d95ea0&Expires=1785517721&Signature=cu7hvmDW1i8PiFqdzlDfU5Zi3GARQbWFpAC78EVbJCMkAbLUUlUhpuewI6daJzuUEION0dgcKXuFRb4cTSX13YOj~WmhSlgFFhx1V5pnA-5HwhjwE0mqyBdnFdRR~g3Y7~2YRy2lHJNt0NoHmI6zixFptrebqar0XwU1TfPrvbpS0cDUdiOmkMFn-5Y09WE4A9wpMjg5ENGDOkHa8oB6r6ALHqBIgRc7QySAGuVGMBt6~4H29czv9kEIYJVzTmWUh73t-M2ZDUUZamB4CcmtBMQj1JjChUyLytoUOZX0jxmZ5FM~aDZQkmIkGadI-MVu2tS7ugbArUQ1PRcG7sKtYQ__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
-
-#EXTINF:-1 tvg-name="HINDI FHD SDR [H264-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1569/1785480731569-b" group-title="Central Delhi Kings vs Purani Dilli 6", HINDI FHD SDR [H264-FHD-DV-HDR-SDR]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live-ssai-bpk-mum.cdn.hotstar.com/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074630&language=hindi&layer=master&media_codec=codec%3Dh264%3Adr%3Dsdr&playback_host=live14p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-dplt20-2026&si_match_id=723702&hdnea=exp=1785517715~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074630/15mindvrm01c9edd5e0eedb4d15bdb495d2e1bc975131july2026/master_ap~ttl=1800~type=paid~data=ip=UrZfNueXNaZmSijJZX1KNs2ARItfUVJMqjOyDDXc9421-userid=T4KpivQuaA7iEsZLKDALKSGtyxwW7lnlztoYzaUWj10x-did=Tt2PPMeEsKuRoLkCqHBbxZFZSXdI8JCdw1v4Is77QqdE-cc=in-de=3-pl=androidtv-ap=24.02.17.7-ut=paid-~hmac=d57276e7fff490868671efd88065305c644b1b37054051624a1c102ed370517f
+http://live13p.hotstar.com/hls/live/2027133/inallow-hundredmen-2026/eng/1540074954/15mindvrm02a9cb4b298d62482b920b8f2b406354ab01august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074954&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live13p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredmen-2026&si_match_id=723785&hdnea=exp=1785612755~acl=/hls/live/2027133/inallow-hundredmen-2026/eng/1540074954/15mindvrm02a9cb4b298d62482b920b8f2b406354ab01august2026/master_ap~ttl=1800~type=paid~data=ip=Zweq4Ldbic7gEzNmUodu8PNCLMAQOvwzk8ZIQF2M8I58cpRyUMPUI27-userid=2dC7gxbuJgfHo3imK14EAnCaKmM5LGlSl2yhGDrf2mLw-did=EPmA0bbiVmZtJBMieFEWYvDn7AkI0EA98Yk5nO9kbk23-cc=in-de=2-pl=androidtv-ap=26.09.14.3-ut=paid-~hmac=ddcb6ca740a0c5e8fe5c7086d2687bc310ee9330774078f1c3bf2e713641199d
