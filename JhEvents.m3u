@@ -1,15 +1,10 @@
 #EXTM3U
 # JoinTg: @StreamFlex19
 # Title: WELSH FIRE VS SOUTHERN BRAVE
-# Generated: 2026-08-03 22:20:56
+# Generated: 2026-08-03 22:32:16
 
-#EXTINF:-1 tvg-id="8144388418" tvg-name="ENGLISH 4K SDR [H265-DV-HDR-SDR-ADSFREE]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/273/1785673100273-b" group-title="WELSH FIRE VS SOUTHERN BRAVE", ENGLISH 4K [H265-DV-HDR-SDR-ADSFREE] SDR
+#EXTINF:-1 tvg-id="5606272544" tvg-name="ENGLISH FHD SDR [H265-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/273/1785673100273-b" group-title="WELSH FIRE VS SOUTHERN BRAVE", ENGLISH FHD [H265-FHD-DV-HDR-SDR] SDR
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074841&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723756&hdnea=exp=1785776280~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap~ttl=1800~type=paid~data=ip=uCVwmA5dZF1ogAqadO4doUlTsXExN4p89vd3Zxy9gJ17FUm61tWX9PM-userid=DNXHaJPJvZGTACt58gXCSGUHgxpG2mGH4Xm5Ii9Reim9-did=iyYwvdctmUPd9H0Na98JY7mBKgPyJyNOiN2wyQrmn7cn-cc=in-de=5-pl=androidtv-ap=25.11.08.4-ut=paid-~hmac=331ef473fa5a53cd169ccafb5577936615df05e3ae4e11770647d4f6e2394d00
-#EXTINF:-1 tvg-id="2175677582" tvg-name="ENGLISH [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/273/1785673100273-b" group-title="WELSH FIRE VS SOUTHERN BRAVE", ENGLISH [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live-jiol.cdn.hotstar.com/hls/live/2003893/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap.m3u8?a=ns&hdnea=exp=1785776450~acl=/hls/live/2003893/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap~ttl=1800~type=paid~data=ip=uCVwmA5dZF1ogAqadO4doUlTsXExN4p89vd3Zxy9gJ17FUm61tWX9PM-userid=DNXHaJPJvZGTACt58gXCSGUHgxpG2mGH4Xm5Ii9Reim9-did=iyYwvdctmUPd9H0Na98JY7mBKgPyJyNOiN2wyQrmn7cn-cc=in-de=5-pl=android-ap=24.04.21.5-ut=paid-~hmac=c642f2dee874659d3e7dc190e6f2fafc27a1ff235053dc933a5e239d40fcfaef
+http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074841&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723756&hdnea=exp=1785778242~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap*~data=ip=uCVwmA5dZF1ogAqadO4doUlTsXExN4p89vd3Zxy9gJ17FUm61tWX9PM-userid=DNXHaJPJvZGTACt58gXCSGUHgxpG2mGH4Xm5Ii9Reim9-did=iyYwvdctmUPd9H0Na98JY7mBKgPyJyNOiN2wyQrmn7cn-cc=in-de=5-pl=androidtv-ap=24.07.16.7-ut=paid-ttl=1800-type=paid-raf=1785777042-~hmac=9f0b893d7b789e373e197fb36bf73f6e0819e6ab277143fc8622c787a7d41551
