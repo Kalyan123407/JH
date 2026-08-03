@@ -1,25 +1,7 @@
 #EXTM3U
-# JoinTg: @StreamFlex19
-# Title: TRENT ROCKETS VS SUNRISERS LEEDS
-# Generated: 2026-08-02 16:23:00
+# Title: STAR SPORTS 1 DIGITAL
 
-#EXTINF:-1 tvg-id="8067824317" tvg-name="ENGLISH 4K SDR ADSFREE [H265-AUTO-DV-HDR-SDR-ADSFREE]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3409/1785582323409-b" group-title="TRENT ROCKETS VS SUNRISERS LEEDS", ENGLISH 4K ADSFREE [H265-AUTO-DV-HDR-SDR-ADSFREE] SDR
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074835&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723754&hdnea=exp=1785668411~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap~ttl=1800~type=paid~data=ip=pfztS9OlFkAIiM5TvjecynGATlJiesVpA6fF838l9Sl0q5qlNx9i52c-userid=NCpWB5eY8j4L6v4ExITrm2CsNt5cwhIdceJeN9ztWPVR-did=nG2Uqb8mlWWn9K6xTll1nC4VyPzehLNEGD77rXvbgFCv-cc=in-de=5-pl=androidtv-ap=26.10.25.6-ut=paid-~hmac=3a69bad342652b2f6ca1ac7175f2f9838b675c6d5ce368e64121cbf4e16f9ea2
-#EXTINF:-1 tvg-id="8278032772" tvg-name="ENGLISH [JHS-FHD]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3409/1785582323409-b" group-title="TRENT ROCKETS VS SUNRISERS LEEDS", ENGLISH [JHS-FHD]
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live-jiol.cdn.hotstar.com/hls/live/2003893/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap.m3u8?a=ns&hdnea=exp=1785668494~acl=/hls/live/2003893/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap~ttl=1800~type=paid~data=ip=pfztS9OlFkAIiM5TvjecynGATlJiesVpA6fF838l9Sl0q5qlNx9i52c-userid=NCpWB5eY8j4L6v4ExITrm2CsNt5cwhIdceJeN9ztWPVR-did=nG2Uqb8mlWWn9K6xTll1nC4VyPzehLNEGD77rXvbgFCv-cc=in-de=5-pl=android-ap=24.02.27.5-ut=paid-~hmac=f51117c308b2dad9314fc2d68f8dcc9b627c50d51c373a9a8f1a06d7206009ba
-#EXTINF:-1 tvg-id="6948187724" tvg-name="ENGLISH FHD SDR [H264-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3409/1785582323409-b" group-title="TRENT ROCKETS VS SUNRISERS LEEDS", ENGLISH FHD [H264-FHD-DV-HDR-SDR] SDR
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live-ssai-jiol-mum.cdn.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074835&language=english&layer=master&media_codec=codec%3Dh264%3Adr%3Dsdr&playback_host=live14p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723754&hdnea=exp=1785668506~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap~ttl=1800~type=paid~data=ip=pfztS9OlFkAIiM5TvjecynGATlJiesVpA6fF838l9Sl0q5qlNx9i52c-userid=NCpWB5eY8j4L6v4ExITrm2CsNt5cwhIdceJeN9ztWPVR-did=nG2Uqb8mlWWn9K6xTll1nC4VyPzehLNEGD77rXvbgFCv-cc=in-de=5-pl=androidtv-ap=26.01.04.7-ut=paid-~hmac=9d140d74e11160a5bc238c6bc1c687428b542b4c8a9e6e1690429f34cffbdacf
-#EXTINF:-1 tvg-id="784238631" tvg-name="ENGLISH FHD SDR [H265-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3409/1785582323409-b" group-title="TRENT ROCKETS VS SUNRISERS LEEDS", ENGLISH FHD [H265-FHD-DV-HDR-SDR] SDR
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live-ssai-jiol-mum.cdn.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074835&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723754&hdnea=exp=1785668549~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074835/15mindvrm01268bca9d0e334184a527969aab2d2e0a02august2026/master_ap~ttl=1800~type=paid~data=ip=pfztS9OlFkAIiM5TvjecynGATlJiesVpA6fF838l9Sl0q5qlNx9i52c-userid=NCpWB5eY8j4L6v4ExITrm2CsNt5cwhIdceJeN9ztWPVR-did=nG2Uqb8mlWWn9K6xTll1nC4VyPzehLNEGD77rXvbgFCv-cc=in-de=5-pl=androidtv-ap=24.10.10.1-ut=paid-~hmac=04c231473d81c2dd64a3c6ec14eea686d71be629fe477f3a33c76c0819c6dc28
+# Generated: 2026-08-03 09:50:53
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h" group-title="STAR SPORTS 1 DIGITAL", STREAM PRIMARY
+https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1785730750~exp=1785731350~acl=/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/*~data=ip=Fs832Y4bzt8p4J2IcV2uZZNWVJNwSkiPQlK5ibB0AYxqm05G6QTXfj7-userid=DNXHaJPJvZGTACt58gXCSGUHgxpG2mGH4Xm5Ii9Reim9-did=iyYwvdctmUPd9H0Na98JY7mBKgPyJyNOiN2wyQrmn7cn-cc=in-de=5-pl=androidtv-ap=24.01.13.2-ut=paid-~hmac=0c1a69ad185859dccaf81b83383617a1963c5b4753c1a284adcbc1c150e981d6
