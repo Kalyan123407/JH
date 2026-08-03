@@ -1,7 +1,7 @@
 #EXTM3U
 # Title: STAR SPORTS 1 DIGITAL
 
-# Generated: 2026-08-03 09:50:53
+# Generated: 2026-08-03 09:53:51
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h" group-title="STAR SPORTS 1 DIGITAL", STREAM PRIMARY
-https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1785730750~exp=1785731350~acl=/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/*~data=ip=Fs832Y4bzt8p4J2IcV2uZZNWVJNwSkiPQlK5ibB0AYxqm05G6QTXfj7-userid=DNXHaJPJvZGTACt58gXCSGUHgxpG2mGH4Xm5Ii9Reim9-did=iyYwvdctmUPd9H0Na98JY7mBKgPyJyNOiN2wyQrmn7cn-cc=in-de=5-pl=androidtv-ap=24.01.13.2-ut=paid-~hmac=0c1a69ad185859dccaf81b83383617a1963c5b4753c1a284adcbc1c150e981d6
+https://livetv.hotstar.com/mp2/gec-india-1540068304/18d2dc585a4b4b97a060ee1f8396a47a/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=exp=1785817431~acl=%2f*~id=963c5b4753c1a284adcbc1c150e981d6~data=hdntl~hmac=6576a2888fca752a379c69b3fd6863cddb599422d55171006d06e690dcb43b70
