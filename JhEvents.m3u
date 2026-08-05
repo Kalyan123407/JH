@@ -1,10 +1,15 @@
 #EXTM3U
 # JoinTg: @StreamFlex19
-# Title: WELSH FIRE VS SOUTHERN BRAVE
-# Generated: 2026-08-03 22:32:16
+# Title: MANCHESTER SUPER GIANTS VS WELSH FIRE
+# Generated: 2026-08-05 16:34:41
 
-#EXTINF:-1 tvg-id="5606272544" tvg-name="ENGLISH FHD SDR [H265-FHD-DV-HDR-SDR]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/273/1785673100273-b" group-title="WELSH FIRE VS SOUTHERN BRAVE", ENGLISH FHD [H265-FHD-DV-HDR-SDR] SDR
+#EXTINF:-1 tvg-id="8635040469" tvg-name="ENGLISH" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8687/1785847298687-b" group-title="MANCHESTER SUPER GIANTS VS WELSH FIRE", ENGLISH 4K HDR ADSFREE
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074841&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723756&hdnea=exp=1785778242~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074841/15mindvrm01af137f7d509148cda6fd3b8b74c8570003august2026/master_ap*~data=ip=uCVwmA5dZF1ogAqadO4doUlTsXExN4p89vd3Zxy9gJ17FUm61tWX9PM-userid=DNXHaJPJvZGTACt58gXCSGUHgxpG2mGH4Xm5Ii9Reim9-did=iyYwvdctmUPd9H0Na98JY7mBKgPyJyNOiN2wyQrmn7cn-cc=in-de=5-pl=androidtv-ap=24.07.16.7-ut=paid-ttl=1800-type=paid-raf=1785777042-~hmac=9f0b893d7b789e373e197fb36bf73f6e0819e6ab277143fc8622c787a7d41551
+http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074847/15mindvrm014d5251293009417eaa2eb281810f705305august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074847&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723758&hdnea=exp=1785928371~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074847/15mindvrm014d5251293009417eaa2eb281810f705305august2026/master_ap~ttl=1800~type=paid~data=ip=k5FQoaQZe6tc7HOBeQw33gYznXaehlYgQQ0VbkRzge8jYFL5vgTIEWv-userid=e54BPjOC6seFIBwYms681VyZ4eZ0vxlU7BAZW3gdSctp-did=PjDbshUHPF5f4OrcLEJeRAyhFoFdnFQ0lNclmp3v0Kdn-cc=in-bl=jhs-de=5-pl=androidtv-ap=25.12.25.5-ut=paid-~hmac=9f1741fb6cd6f7f5b97fbc421aa53c7998c44594d5740857e97c3ad821ddcd40
+#EXTINF:-1 tvg-id="6249147637" tvg-name="ENGLISH SDR" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8687/1785847298687-b" group-title="MANCHESTER SUPER GIANTS VS WELSH FIRE", ENGLISH 4K SDR ADSFREE
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live15p.hotstar.com/hls/live/2004218/inallow-hundredwo-2026/eng/1540074847/15mindvrm014d5251293009417eaa2eb281810f705305august2026/master_ap.m3u8?a=s&asn_id=ffets&content_id=1540074847&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-hundredwo-2026&si_match_id=723758&hdnea=exp=1785928421~acl=/hls/live/2004218/inallow-hundredwo-2026/eng/1540074847/15mindvrm014d5251293009417eaa2eb281810f705305august2026/master_ap~ttl=1800~type=paid~data=ip=k5FQoaQZe6tc7HOBeQw33gYznXaehlYgQQ0VbkRzge8jYFL5vgTIEWv-userid=e54BPjOC6seFIBwYms681VyZ4eZ0vxlU7BAZW3gdSctp-did=PjDbshUHPF5f4OrcLEJeRAyhFoFdnFQ0lNclmp3v0Kdn-cc=in-bl=jhs-de=5-pl=androidtv-ap=24.03.26.5-ut=paid-~hmac=68651b216fa0bb8ab237412034561c194cab5a90bcede7a5c548bd1ab2b7fd3c
